@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DARTSLIVE X</string>
+    <string name="twitter_consumer_key">cb1Mn61Tj3W9jH2Q8rytsTBzA</string>
+    <string name="twitter_consumer_secret">GdndEKTPHBK5pyp201mGCWolTinuZABHVwyMGBbFOCzTTZRTGv</string>
+    <string name="target_bull">TARGET</string>
+    <string name="push_change_button">PUSH CHANGE BUTTON</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="input_twitter_screen_name">Twitter screen name</string>
+    <string name="submit_twitter_screen_name">Play darts!!</string>
+    <string name="title_activity_practice">PracticeActivity</string>
+    <string name="back_button">Back</string>
+    <string name="result_button">Result</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="throw_count">Throw count</string>
+    <string name="bull">Bull</string>
+    <string name="t20">T20</string>
+    <string name="t19">T19</string>
+    <string name="t18">T18</string>
+    <string name="t17">T17</string>
+    <string name="t16">T16</string>
+    <string name="t15">T15</string>
+</resources>
