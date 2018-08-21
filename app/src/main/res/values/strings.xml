@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">DARTSLIVE X</string>
-    <string name="twitter_consumer_key">cb1Mn61Tj3W9jH2Q8rytsTBzA</string>
-    <string name="twitter_consumer_secret">GdndEKTPHBK5pyp201mGCWolTinuZABHVwyMGBbFOCzTTZRTGv</string>
+    <string name="twitter_consumer_key">hoge</string>
+    <string name="twitter_consumer_secret">hoge</string>
     <string name="target_bull">TARGET</string>
     <string name="push_change_button">PUSH CHANGE BUTTON</string>
     <string name="title_activity_game">GameActivity</string>
